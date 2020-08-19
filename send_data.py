@@ -3,7 +3,7 @@ import time
  
 from azure.iot.device import IoTHubDeviceClient, Message  
  
-CONNECTION_STRING = "HostName=SmartFarming.azure-devices.net;DeviceId=RaspberryPi;SharedAccessKey=HAyPCWnmKUvNYxj1EC5dL//Cpfw1lNM587YO1Xe6YRQ="  
+CONNECTION_STRING = "HostName=SmartFarming.azure-devices.net;DeviceId=mypi;SharedAccessKey=WU7LtDbvm0zxHt6az2NYEQxBv5Et1ggHbg0XxL55Zds="  
  
 TEMPERATURE = 20.0  
 HUMIDITY = 60  
